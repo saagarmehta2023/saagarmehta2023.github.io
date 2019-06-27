@@ -42,7 +42,7 @@ section {
     background-attachment: fixed; /* Add this line */
 }
 
-#hero .profile-img {
+#hero Saagar Mehta.jpg{
     width: 300px;
     border-radius: 50%;
 }
